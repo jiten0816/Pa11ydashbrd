@@ -2,7 +2,7 @@
 	"urls": [
 		{
 			"name": "FAQ",
-			"url": "https://dev-th-r1-1.fwdxt.com/en/testing/home-page/branding-pages/faq",
+			"url": "",
 			"standard": "WCAG2AA",
 			"ignore": [
 				"WCAG2AA.Principle1.Guideline1_4.1_4_3.G145",
@@ -13,7 +13,7 @@
 		},
 		{
 			"name": "Articles",
-			"url": "https://dev-th-r1-1.fwdxt.com/th/testing/home-page/branding-pages/article-page/articles",
+			"url": "",
 			"standard": "WCAG2AA",
 			"ignore": [
 				"WCAG2AA.Principle1.Guideline1_4.1_4_3.G145",
@@ -24,7 +24,7 @@
 		},
 		{
 			"name": "ContentBlock",
-			"url": "https://dev-th-r1-1.fwdxt.com/en/testing/home-page/branding-pages/contentblock",
+			"url": "",
 			"standard": "WCAG2AA",
 			"ignore": [
 				"WCAG2AA.Principle1.Guideline1_4.1_4_3.G145",

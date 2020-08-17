@@ -1,36 +1,36 @@
 {
 	"urls": [
 		{
-			"name": "UAT_CDN_Products",
-			"url": "https://uat-www.fwd.co.th/th/products/",
+			"name": "FAQ",
+			"url": "https://dev-th-r1-1.fwdxt.com/en/testing/home-page/branding-pages/faq",
 			"standard": "WCAG2AA",
 			"ignore": [
 				"WCAG2AA.Principle1.Guideline1_4.1_4_3.G145",
 				"WCAG2AA.Principle1.Guideline1_4.1_4_3.G18",
 				"WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
-				"WCAG2AA.Principle1.Guideline1_4.1_4_3.G145"
+				"WCAG2AA.Principle1.Guideline1_4.1_4_3.G145.Fail"
 			]
 		},
 		{
-			"name": "UAT_CDN_PDP-Prakan",
-			"url": "https://uat-www.fwd.co.th/th/products/accident/prakan-kon-kla-max/",
+			"name": "Articles",
+			"url": "https://dev-th-r1-1.fwdxt.com/th/testing/home-page/branding-pages/article-page/articles",
 			"standard": "WCAG2AA",
 			"ignore": [
 				"WCAG2AA.Principle1.Guideline1_4.1_4_3.G145",
 				"WCAG2AA.Principle1.Guideline1_4.1_4_3.G18",
 				"WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
-				"WCAG2AA.Principle1.Guideline1_4.1_4_3.G145"
+				"WCAG2AA.Principle1.Guideline1_4.1_4_3.G145.Fail"
 			]
 		},
 		{
-			"name": "UAT_CDN_About-Us",
-			"url": "https://uat-www.fwd.co.th/th/about-us/",
+			"name": "ContentBlock",
+			"url": "https://dev-th-r1-1.fwdxt.com/en/testing/home-page/branding-pages/contentblock",
 			"standard": "WCAG2AA",
 			"ignore": [
 				"WCAG2AA.Principle1.Guideline1_4.1_4_3.G145",
 				"WCAG2AA.Principle1.Guideline1_4.1_4_3.G18",
 				"WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail",
-				"WCAG2AA.Principle1.Guideline1_4.1_4_3.G145"
+				"WCAG2AA.Principle1.Guideline1_4.1_4_3.G145.Fail"
 			]
 		}
 	]

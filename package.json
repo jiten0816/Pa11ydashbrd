@@ -34,7 +34,7 @@
 		"express-hbs": "~2.1.2",
 		"http-headers": "~3.0.2",
 		"kleur": "^4.0.2",
-		"moment": "~2.24.0",
+		"moment": "~2.29.4",
 		"mongodb": "^3.5.9",
 		"mongodb-server": "^1.0.0",
 		"pa11y-webservice": "~3.1.2",

@@ -30,7 +30,7 @@
 		"compression": "~1.7.4",
 		"csv-parser": "^2.3.3",
 		"dotenv": "^8.2.0",
-		"express": "~4.17.1",
+		"express": "~4.17.3",
 		"express-hbs": "~2.1.2",
 		"http-headers": "~3.0.2",
 		"kleur": "^4.0.2",
